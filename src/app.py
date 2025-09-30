@@ -76,7 +76,7 @@ activities = {
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
     },
     "Manga Maniacs": {
-        "description": "Explore the stories of interesting characters from Japanese manga (graphic novels).",
+        "description": "Dive into epic adventures and unforgettable characters from the captivating world of Japanese manga!",
         "schedule": "Tuesdays at 7 PM",
         "max_participants": 15,
         "participants": []
