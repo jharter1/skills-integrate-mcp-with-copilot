@@ -74,6 +74,12 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Dive into epic adventures and unforgettable characters from the captivating world of Japanese manga!",
+        "schedule": "Tuesdays at 7 PM",
+        "max_participants": 15,
+        "participants": []
     }
 }
 
